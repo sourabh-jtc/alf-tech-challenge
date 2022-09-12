@@ -10,7 +10,7 @@
 
 `GET /products` - To get the all products available.
 
-If we provide query params ( /products?category=laptop) then all the products except category = laptop will be returned
+If we provide query params ( /products?category=laptop) then all the products except `category = laptop` will be returned
 
 API Response (With status code `200` for successful request) -
 
