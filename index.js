@@ -14,7 +14,7 @@ app.use(cors());
 app.use('/products', productRoutes);
 app.use('/orders', orderRoutes);
 
-const CONNECTION_URL = `mongodb+srv://memories_mern_project:memories4097@mern.n1t5a.mongodb.net/challenge?retryWrites=true&w=majority`;
+const CONNECTION_URL = `mongodb+srv://alf-tech:alftech4097@mern.n1t5a.mongodb.net/challenge?retryWrites=true&w=majority`;
 
 const PORT = 5000;
 
